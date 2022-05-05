@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /data/pokemon-showdown/data/text</title>
+ </head>
+ <body>
+<h1>Index of /data/pokemon-showdown/data/text</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/data/pokemon-showdown/data/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="pokedex.ts">pokedex.ts</a></td><td align="right">2020-11-11 20:12  </td><td align="right"> 46K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="moves.ts">moves.ts</a></td><td align="right">2022-04-29 20:51  </td><td align="right">455K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="items.ts">items.ts</a></td><td align="right">2021-12-04 15:01  </td><td align="right"> 68K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="default.ts">default.ts</a></td><td align="right">2021-04-03 14:46  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="abilities.ts">abilities.ts</a></td><td align="right">2022-01-20 19:48  </td><td align="right">100K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.7 (Ubuntu) Server at play.pokemonshowdown.com Port 80</address>
+</body></html>

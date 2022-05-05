@@ -1,0 +1,110 @@
+
+Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client ('undefined') [ER_NOT_SUPPORTED_AUTH_MODE]
+    at Query._callback (/home/loginserver/loginserver/.dist/src/database.js:55:50)
+    at Query.Sequence.end (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at /home/loginserver/loginserver/node_modules/mysql/lib/Pool.js:205:13
+    at Handshake.onConnect (/home/loginserver/loginserver/node_modules/mysql/lib/Pool.js:58:9)
+    at Handshake.<anonymous> (/home/loginserver/loginserver/node_modules/mysql/lib/Connection.js:526:10)
+    at Handshake._callback (/home/loginserver/loginserver/node_modules/mysql/lib/Connection.js:488:16)
+    at Handshake.Sequence.end (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Handshake.ErrorPacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Handshake.js:125:8)
+    at Protocol._parsePacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/Parser.js:433:10)
+
+Additional information:
+  act = getassertion
+  userid = miapi
+  challstr = 4|1e2d62e292fee6790ec83c578dbf8dd5c119191480a616b67d139d0a88d71e0aa752b1ea379b7c9a54e30c6ed0caf581b1221884eb561b2c9f34b393a97f6c48771bf70bdf7ad3ad87af32a91264255ae5358150765053e7288d58abbcea419f61b6e9879b6e48f6236f345b1b689cde98d5abf8ce8bc7124ac1a9662ca5d36c|653445mqf9479345mqf9628645mqf9876345mqf9317245mqf90a7f6c74448056b981df58aa476e3e62
+
+
+Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client ('undefined') [ER_NOT_SUPPORTED_AUTH_MODE]
+    at Query._callback (/home/loginserver/loginserver/.dist/src/database.js:55:50)
+    at Query.Sequence.end (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at /home/loginserver/loginserver/node_modules/mysql/lib/Pool.js:205:13
+    at Handshake.onConnect (/home/loginserver/loginserver/node_modules/mysql/lib/Pool.js:58:9)
+    at Handshake.<anonymous> (/home/loginserver/loginserver/node_modules/mysql/lib/Connection.js:526:10)
+    at Handshake._callback (/home/loginserver/loginserver/node_modules/mysql/lib/Connection.js:488:16)
+    at Handshake.Sequence.end (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Handshake.ErrorPacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Handshake.js:125:8)
+    at Protocol._parsePacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/Parser.js:433:10)
+
+Additional information:
+  act = getassertion
+  userid = miapi
+  challstr = 4|1e2d62e292fee6790ec83c578dbf8dd5c119191480a616b67d139d0a88d71e0aa752b1ea379b7c9a54e30c6ed0caf581b1221884eb561b2c9f34b393a97f6c48771bf70bdf7ad3ad87af32a91264255ae5358150765053e7288d58abbcea419f61b6e9879b6e48f6236f345b1b689cde98d5abf8ce8bc7124ac1a9662ca5d36c|653445mqf9479345mqf9628645mqf9876345mqf9317245mqf90a7f6c74448056b981df58aa476e3e62
+
+
+Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client ('undefined') [ER_NOT_SUPPORTED_AUTH_MODE]
+    at Query._callback (/home/loginserver/loginserver/.dist/src/database.js:55:50)
+    at Query.Sequence.end (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at /home/loginserver/loginserver/node_modules/mysql/lib/Pool.js:205:13
+    at Handshake.onConnect (/home/loginserver/loginserver/node_modules/mysql/lib/Pool.js:58:9)
+    at Handshake.<anonymous> (/home/loginserver/loginserver/node_modules/mysql/lib/Connection.js:526:10)
+    at Handshake._callback (/home/loginserver/loginserver/node_modules/mysql/lib/Connection.js:488:16)
+    at Handshake.Sequence.end (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Handshake.ErrorPacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Handshake.js:125:8)
+    at Protocol._parsePacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/Parser.js:433:10)
+
+Additional information:
+  act = getassertion
+  userid = miapi
+  challstr = 4|1e2d62e292fee6790ec83c578dbf8dd5c119191480a616b67d139d0a88d71e0aa752b1ea379b7c9a54e30c6ed0caf581b1221884eb561b2c9f34b393a97f6c48771bf70bdf7ad3ad87af32a91264255ae5358150765053e7288d58abbcea419f61b6e9879b6e48f6236f345b1b689cde98d5abf8ce8bc7124ac1a9662ca5d36c|653445mqf9479345mqf9628645mqf9876345mqf9317245mqf90a7f6c74448056b981df58aa476e3e62
+
+
+Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client ('undefined') [ER_NOT_SUPPORTED_AUTH_MODE]
+    at Query._callback (/home/loginserver/loginserver/.dist/src/database.js:55:50)
+    at Query.Sequence.end (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at /home/loginserver/loginserver/node_modules/mysql/lib/Pool.js:205:13
+    at Handshake.onConnect (/home/loginserver/loginserver/node_modules/mysql/lib/Pool.js:58:9)
+    at Handshake.<anonymous> (/home/loginserver/loginserver/node_modules/mysql/lib/Connection.js:526:10)
+    at Handshake._callback (/home/loginserver/loginserver/node_modules/mysql/lib/Connection.js:488:16)
+    at Handshake.Sequence.end (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Handshake.ErrorPacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Handshake.js:125:8)
+    at Protocol._parsePacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/Parser.js:433:10)
+
+Additional information:
+  act = getassertion
+  userid = miapi
+  challstr = 4|6c84d4fdb76a70fa1f89f816f01583c94ec2684d41a08843549a39e137abfc96fbd7198da73bba286eadeb3e6604c4ad067a6559bca71b35526fa084f6fd29484928ddb799ffc2fb8c10027c98b409f9531234ba2ba8ec9adca7eebc7a4a85baf221e6b38ac33c78a4857b893a18baf964952144df7cbbe093818a7dca6e2514|653445mqf9479345mqf9628645mqf9876345mqf9317245mqf90a7f6c74448056b981df58aa476e3e62
+
+
+Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client ('undefined') [ER_NOT_SUPPORTED_AUTH_MODE]
+    at Query._callback (/home/loginserver/loginserver/.dist/src/database.js:55:50)
+    at Query.Sequence.end (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at /home/loginserver/loginserver/node_modules/mysql/lib/Pool.js:205:13
+    at Handshake.onConnect (/home/loginserver/loginserver/node_modules/mysql/lib/Pool.js:58:9)
+    at Handshake.<anonymous> (/home/loginserver/loginserver/node_modules/mysql/lib/Connection.js:526:10)
+    at Handshake._callback (/home/loginserver/loginserver/node_modules/mysql/lib/Connection.js:488:16)
+    at Handshake.Sequence.end (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Handshake.ErrorPacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/sequences/Handshake.js:125:8)
+    at Protocol._parsePacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/loginserver/loginserver/node_modules/mysql/lib/protocol/Parser.js:433:10)
+
+Additional information:
+  act = getassertion
+  userid = miapi
+  challstr = 4|6c84d4fdb76a70fa1f89f816f01583c94ec2684d41a08843549a39e137abfc96fbd7198da73bba286eadeb3e6604c4ad067a6559bca71b35526fa084f6fd29484928ddb799ffc2fb8c10027c98b409f9531234ba2ba8ec9adca7eebc7a4a85baf221e6b38ac33c78a4857b893a18baf964952144df7cbbe093818a7dca6e2514|653445mqf9479345mqf9628645mqf9876345mqf9317245mqf90a7f6c74448056b981df58aa476e3e62
+  devmode = a534g02wa4g2straeostrapwbig
+
+
+Error: Access denied for user 'www-data'@'localhost' ('SELECT  * FROM `ntbb_users`  WHERE `userid` = ? LIMIT 1') [ER_ACCESS_DENIED_NO_PASSWORD_ERROR]
+    at Query.onResult (/home/loginserver/loginserver/.dist/src/database.js:61:35)
+    at /home/loginserver/loginserver/node_modules/mysql2/lib/pool.js:142:20
+    at /home/loginserver/loginserver/node_modules/mysql2/lib/pool.js:60:18
+    at PoolConnection.<anonymous> (/home/loginserver/loginserver/node_modules/mysql2/lib/connection.js:775:13)
+    at Object.onceWrapper (events.js:422:26)
+    at PoolConnection.emit (events.js:327:22)
+    at PoolConnection._notifyError (/home/loginserver/loginserver/node_modules/mysql2/lib/connection.js:236:12)
+    at ClientHandshake.<anonymous> (/home/loginserver/loginserver/node_modules/mysql2/lib/connection.js:125:14)
+    at ClientHandshake.emit (events.js:327:22)
+    at ClientHandshake.execute (/home/loginserver/loginserver/node_modules/mysql2/lib/commands/command.js:39:14)
+
+Additional information:
+  act = getassertion
+  userid = miapi
+  challstr = 4|6c84d4fdb76a70fa1f89f816f01583c94ec2684d41a08843549a39e137abfc96fbd7198da73bba286eadeb3e6604c4ad067a6559bca71b35526fa084f6fd29484928ddb799ffc2fb8c10027c98b409f9531234ba2ba8ec9adca7eebc7a4a85baf221e6b38ac33c78a4857b893a18baf964952144df7cbbe093818a7dca6e2514|653445mqf9479345mqf9628645mqf9876345mqf9317245mqf90a7f6c74448056b981df58aa476e3e62
+  devmode = a534g02wa4g2straeostrapwbig
+

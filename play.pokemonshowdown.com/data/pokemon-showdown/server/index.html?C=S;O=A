@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /data/pokemon-showdown/server</title>
+ </head>
+ <body>
+<h1>Index of /data/pokemon-showdown/server</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=D">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/data/pokemon-showdown/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="artemis/">artemis/</a></td><td align="right">2022-04-02 15:26  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="chat-commands/">chat-commands/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="chat-plugins/">chat-plugins/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="modlog/">modlog/</a></td><td align="right">2022-01-11 10:44  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="static/">static/</a></td><td align="right">2020-07-21 18:39  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="tournaments/">tournaments/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="verifier.ts">verifier.ts</a></td><td align="right">2021-09-05 13:01  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="chat-jsx.tsx">chat-jsx.tsx</a></td><td align="right">2022-02-16 17:06  </td><td align="right">1.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="global-variables.d.ts">global-variables.d.ts</a></td><td align="right">2021-04-10 16:03  </td><td align="right">1.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="team-validator-async.ts">team-validator-async.ts</a></td><td align="right">2021-04-10 16:03  </td><td align="right">2.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="room-minor-activity.ts">room-minor-activity.ts</a></td><td align="right">2021-05-17 15:04  </td><td align="right">3.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="global-types.ts">global-types.ts</a></td><td align="right">2022-01-28 21:06  </td><td align="right">3.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="README.md">README.md</a></td><td align="right">2021-04-02 22:54  </td><td align="right">4.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="loginserver.ts">loginserver.ts</a></td><td align="right">2021-09-05 13:01  </td><td align="right">5.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="config-loader.ts">config-loader.ts</a></td><td align="right">2021-09-05 13:01  </td><td align="right">5.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="ladders-remote.ts">ladders-remote.ts</a></td><td align="right">2021-09-19 10:39  </td><td align="right">5.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="index.ts">index.ts</a></td><td align="right">2021-09-05 13:01  </td><td align="right">6.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="ladders-challenges.ts">ladders-challenges.ts</a></td><td align="right">2021-11-07 00:10  </td><td align="right">8.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="roomlogs.ts">roomlogs.ts</a></td><td align="right">2021-12-04 15:01  </td><td align="right">9.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="monitor.ts">monitor.ts</a></td><td align="right">2021-10-24 15:52  </td><td align="right">9.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="room-game.ts">room-game.ts</a></td><td align="right">2022-03-14 17:04  </td><td align="right">9.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="ladders-local.ts">ladders-local.ts</a></td><td align="right">2021-09-05 13:01  </td><td align="right"> 10K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="chat-formatter.ts">chat-formatter.ts</a></td><td align="right">2021-05-24 15:10  </td><td align="right"> 14K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="user-groups.ts">user-groups.ts</a></td><td align="right">2021-09-12 16:01  </td><td align="right"> 14K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="friends.ts">friends.ts</a></td><td align="right">2022-02-19 10:28  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="ladders.ts">ladders.ts</a></td><td align="right">2022-03-16 16:18  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="sockets.ts">sockets.ts</a></td><td align="right">2021-09-05 13:01  </td><td align="right"> 18K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="ip-tools.ts">ip-tools.ts</a></td><td align="right">2021-11-18 23:06  </td><td align="right"> 19K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="room-battle.ts">room-battle.ts</a></td><td align="right">2022-04-07 15:19  </td><td align="right"> 43K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="users.ts">users.ts</a></td><td align="right">2022-01-28 21:06  </td><td align="right"> 53K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="rooms.ts">rooms.ts</a></td><td align="right">2022-03-14 17:04  </td><td align="right"> 63K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="punishments.ts">punishments.ts</a></td><td align="right">2022-04-29 20:51  </td><td align="right"> 69K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="chat.ts">chat.ts</a></td><td align="right">2022-04-29 20:51  </td><td align="right"> 96K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.7 (Ubuntu) Server at play.pokemonshowdown.com Port 80</address>
+</body></html>
