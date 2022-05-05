@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /data/pokemon-showdown/test/server/chat-plugins</title>
+ </head>
+ <body>
+<h1>Index of /data/pokemon-showdown/test/server/chat-plugins</h1>
+  <table>
+   <tr><th valign="top"><img src="http://play.pokemonshowdown.com/icons/blank.gif" alt="[ICO]"></th><th><a href="index.html?C=N%3BO=A">Name</a></th><th><a href="index.html?C=M%3BO=A">Last modified</a></th><th><a href="index.html?C=S%3BO=A">Size</a></th><th><a href="index.html?C=D%3BO=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="../index.html">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="trivia.js">trivia.js</a></td><td align="right">2021-12-13 12:03  </td><td align="right"> 15K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="chat-monitor.js">chat-monitor.js</a></td><td align="right">2021-07-12 13:22  </td><td align="right">3.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="datasearch.js">datasearch.js</a></td><td align="right">2021-07-12 13:22  </td><td align="right">3.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="username-prefixes.js">username-prefixes.js</a></td><td align="right">2022-02-26 22:07  </td><td align="right">2.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="repeats.js">repeats.js</a></td><td align="right">2021-07-12 13:22  </td><td align="right">1.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="youtube.js">youtube.js</a></td><td align="right">2021-07-12 13:22  </td><td align="right">1.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="responder.js">responder.js</a></td><td align="right">2021-07-12 13:22  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="friends.js">friends.js</a></td><td align="right">2021-07-19 16:34  </td><td align="right">472 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="hosts.js">hosts.js</a></td><td align="right">2021-07-12 13:22  </td><td align="right">425 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.7 (Ubuntu) Server at play.pokemonshowdown.com Port 80</address>
+</body></html>

@@ -6,22 +6,22 @@
  <body>
 <h1>Index of /data/pokemon-showdown/translations</h1>
   <table>
-   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=D">Description</a></th></tr>
+   <tr><th valign="top"><img src="http://play.pokemonshowdown.com/icons/blank.gif" alt="[ICO]"></th><th><a href="index.html?C=N%3BO=A">Name</a></th><th><a href="index.html?C=M%3BO=A">Last modified</a></th><th><a href="index.html?C=S%3BO=A">Size</a></th><th><a href="index.html?C=D%3BO=D">Description</a></th></tr>
    <tr><th colspan="5"><hr></th></tr>
-<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/data/pokemon-showdown/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="README.md">README.md</a></td><td align="right">2020-10-13 20:56  </td><td align="right">413 </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="dutch/">dutch/</a></td><td align="right">2022-02-26 22:07  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="english/">english/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="french/">french/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="german/">german/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="hindi/">hindi/</a></td><td align="right">2022-02-26 22:07  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="italian/">italian/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="japanese/">japanese/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="portuguese/">portuguese/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="simplifiedchinese/">simplifiedchinese/</a></td><td align="right">2022-02-26 22:07  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="spanish/">spanish/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="traditionalchinese/">traditionalchinese/</a></td><td align="right">2022-02-26 22:07  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="turkish/">turkish/</a></td><td align="right">2020-10-13 20:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="../index.html">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="README.md">README.md</a></td><td align="right">2020-10-13 20:56  </td><td align="right">413 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="dutch/index.html">dutch/</a></td><td align="right">2022-02-26 22:07  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="english/index.html">english/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="french/index.html">french/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="german/index.html">german/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="hindi/index.html">hindi/</a></td><td align="right">2022-02-26 22:07  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="italian/index.html">italian/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="japanese/index.html">japanese/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="portuguese/index.html">portuguese/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="simplifiedchinese/index.html">simplifiedchinese/</a></td><td align="right">2022-02-26 22:07  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="spanish/index.html">spanish/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="traditionalchinese/index.html">traditionalchinese/</a></td><td align="right">2022-02-26 22:07  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="turkish/index.html">turkish/</a></td><td align="right">2020-10-13 20:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
    <tr><th colspan="5"><hr></th></tr>
 </table>
 <address>Apache/2.4.7 (Ubuntu) Server at play.pokemonshowdown.com Port 80</address>

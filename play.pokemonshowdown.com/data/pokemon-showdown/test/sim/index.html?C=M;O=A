@@ -1,0 +1,26 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /data/pokemon-showdown/test/sim</title>
+ </head>
+ <body>
+<h1>Index of /data/pokemon-showdown/test/sim</h1>
+  <table>
+   <tr><th valign="top"><img src="http://play.pokemonshowdown.com/icons/blank.gif" alt="[ICO]"></th><th><a href="index.html?C=N%3BO=A">Name</a></th><th><a href="index.html?C=M%3BO=D">Last modified</a></th><th><a href="index.html?C=S%3BO=A">Size</a></th><th><a href="index.html?C=D%3BO=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="../index.html">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="events.js">events.js</a></td><td align="right">2020-07-21 18:39  </td><td align="right">1.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="choice-parser.js">choice-parser.js</a></td><td align="right">2021-01-06 19:21  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="decisions.js">decisions.js</a></td><td align="right">2021-07-12 13:22  </td><td align="right"> 60K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="tools/index.html">tools/</a></td><td align="right">2021-07-12 13:22  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="team-validator.js">team-validator.js</a></td><td align="right">2021-10-23 22:43  </td><td align="right"> 36K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="data.js">data.js</a></td><td align="right">2021-11-18 19:22  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/unknown.gif" alt="[   ]"></td><td><a href="dex.js">dex.js</a></td><td align="right">2022-04-18 12:51  </td><td align="right">2.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="abilities/index.html">abilities/</a></td><td align="right">2022-04-29 20:51  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="items/index.html">items/</a></td><td align="right">2022-04-29 20:51  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="misc/index.html">misc/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="moves/index.html">moves/</a></td><td align="right">2022-05-04 18:12  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.7 (Ubuntu) Server at play.pokemonshowdown.com Port 80</address>
+</body></html>

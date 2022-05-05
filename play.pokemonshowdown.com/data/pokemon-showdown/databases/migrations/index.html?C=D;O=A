@@ -6,11 +6,11 @@
  <body>
 <h1>Index of /data/pokemon-showdown/databases/migrations</h1>
   <table>
-   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=D">Description</a></th></tr>
+   <tr><th valign="top"><img src="http://play.pokemonshowdown.com/icons/blank.gif" alt="[ICO]"></th><th><a href="index.html?C=N%3BO=A">Name</a></th><th><a href="index.html?C=M%3BO=A">Last modified</a></th><th><a href="index.html?C=S%3BO=A">Size</a></th><th><a href="index.html?C=D%3BO=D">Description</a></th></tr>
    <tr><th colspan="5"><hr></th></tr>
-<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/data/pokemon-showdown/databases/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="chat-plugins/">chat-plugins/</a></td><td align="right">2022-01-28 21:06  </td><td align="right">  - </td><td>&nbsp;</td></tr>
-<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="modlog/">modlog/</a></td><td align="right">2021-08-04 15:14  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="../index.html">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="chat-plugins/index.html">chat-plugins/</a></td><td align="right">2022-01-28 21:06  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="http://play.pokemonshowdown.com/icons/folder.gif" alt="[DIR]"></td><td><a href="modlog/index.html">modlog/</a></td><td align="right">2021-08-04 15:14  </td><td align="right">  - </td><td>&nbsp;</td></tr>
    <tr><th colspan="5"><hr></th></tr>
 </table>
 <address>Apache/2.4.7 (Ubuntu) Server at play.pokemonshowdown.com Port 80</address>
